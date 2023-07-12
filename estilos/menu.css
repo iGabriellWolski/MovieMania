@@ -1,0 +1,21 @@
+.container_opem_menu{
+    background-color: white;
+    width: 100vw;
+    height: 100vh;
+    position: absolute;
+    top: 0px;
+    left: 100%;
+}
+
+.menu_cabecalho{
+    display:flex;
+    align-items: center;
+    justify-content: flex-end;
+    background-color: var(--BackGround);
+    height: 80px;
+    padding: .5rem;
+    color: white;
+}
+
+/* ==================================== */
+

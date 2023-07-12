@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron&display=swap');
+
+:root{
+    --FeaturedFont: 'Orbitron', sans-serif;
+    --AccentColor: #ffb350;
+    --SecondaryColor:#272d4d;
+    --TertiaryColor:#b83564;
+    --BackGround:#0F0F0F;
+
+
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;    
+}
